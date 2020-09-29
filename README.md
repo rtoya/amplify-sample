@@ -57,3 +57,42 @@ amplify init
 ├── styles
 └── yarn.lock
 ```
+
+## hosting
+
+```
+amplify add hosting
+```
+
+hosting方法, deploy方法を聞かれるので回答する
+
+`/amplify/backend/`下にhosting設定が追加される
+
+```
+./amplify/backend/
+├── amplify-meta.json
+├── backend-config.json
+├── hosting
+│   └── amplifyhosting
+└── tags.json
+```
+
+## 環境の追加
+
+```
+amplify init
+```
+
+上記で環境を聞かれるので `prod` など適当な環境名を追加する
+
+## デプロイ
+
+```
+amplify publish
+```
+
+## 削除
+
+```
+amplify delete
+```
