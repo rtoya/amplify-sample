@@ -102,3 +102,8 @@ amplify publish
 ```
 amplify delete
 ```
+
+## その他
+
+- ios, android, flutterなどの利用も可能
+  - [flutterの事例](https://qiita.com/solax4x/items/ed5ebf6cb940a4b89b06)
