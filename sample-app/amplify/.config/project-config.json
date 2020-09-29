@@ -1,0 +1,17 @@
+{
+  "projectName": "sampleapp",
+  "version": "3.0",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "react",
+    "config": {
+      "SourceDir": "",
+      "DistributionDir": "",
+      "BuildCommand": "npm run build",
+      "StartCommand": "npm run start"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}
