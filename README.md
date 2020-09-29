@@ -2,6 +2,7 @@
 
 ## AWS Amplify
 
+- モバイルアプリケーションの構築＆デプロイをサポートするフレームワーク
 - フレームワークは無料
 - [ホスティング](https://aws.amazon.com/jp/amplify/pricing/)はほぼ無料
 - AWS AppSync, Amazon Cognitoなどは別料金
