@@ -20,8 +20,8 @@ webでサインイン求められたり、region聞かれたり、iam要求さ�
 今回はnextアプリを作成する
 
 ```
-npx create-next-app next-amplified
-cd next-amplified/
+npx create-next-app sample-app
+cd sample-app/
 npm run dev
 ```
 
